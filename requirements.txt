@@ -1,0 +1,8 @@
+streamlit
+alpaca-py
+pandas
+matplotlib
+scipy
+numpy
+streamlit-autorefresh
+plotly
